@@ -4,7 +4,7 @@
   }
   
   input {
-    
+
   }
   body {
       background: linear-gradient(90deg, rgba(0,212,255,1) 1%, rgba(9,79,121,1) 50%,  rgba(2,0,36,1) 100%);
@@ -15,7 +15,7 @@
       text-align: center;
       margin-top: 15%;
       margin-left: 35%;
-      height: 45vh;
+      height: 50vh;
       padding: 5px;
       padding-top: 37px;
       background: rgb(2,0,36);
